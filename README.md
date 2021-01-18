@@ -1,2 +1,2 @@
-# React-Component-Final
+# React-Components
 Created with CodeSandbox
